@@ -11,7 +11,7 @@ Tämä repo on gitin harjoittelua varten viddu
 
 ## Osoitteet
 
-Repostitoryn osoite [Tästä Hubiin] (https://github.com/janjonatan/jorma)
+Repostitoryn osoite {Tästä Hubiin} (https://github.com/janjonatan/jorma)
 
 Repo voidaan kloonata komennolla 
 
